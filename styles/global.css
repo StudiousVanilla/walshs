@@ -1,0 +1,17 @@
+/* ./styles/globals.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Tinos:wght@700&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.pub-shadow{
+    text-shadow: -1.5px 1px #88a5b8;
+}
+
+.pub-box-shadow{
+    box-shadow: -1.5px 1px #88a5b8;
+}
