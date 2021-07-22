@@ -12,7 +12,10 @@ module.exports = {
       },
       fontFamily:{
         pub :['Tinos']
-      }
+      },
+      transitionDuration: {
+        '3500': '3500ms',
+       }
     },
   },
   variants: {
